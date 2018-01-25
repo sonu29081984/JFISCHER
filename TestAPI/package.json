@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-api-testapi",
+  "version": "1.0.0",
+  "description": "An example of making a Node.js API server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurav Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
